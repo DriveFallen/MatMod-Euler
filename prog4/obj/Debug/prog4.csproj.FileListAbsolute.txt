@@ -1,0 +1,14 @@
+G:\Study\МатМод\prog4\bin\Debug\prog4.exe.config
+G:\Study\МатМод\prog4\bin\Debug\prog4.exe
+G:\Study\МатМод\prog4\bin\Debug\prog4.pdb
+G:\Study\МатМод\prog4\obj\Debug\prog4.csprojAssemblyReference.cache
+G:\Study\МатМод\prog4\obj\Debug\prog4.csproj.CoreCompileInputs.cache
+G:\Study\МатМод\prog4\obj\Debug\prog4.exe
+G:\Study\МатМод\prog4\obj\Debug\prog4.pdb
+G:\Study\МатМод\Эйлера\prog4\bin\Debug\prog4.exe.config
+G:\Study\МатМод\Эйлера\prog4\bin\Debug\prog4.exe
+G:\Study\МатМод\Эйлера\prog4\bin\Debug\prog4.pdb
+G:\Study\МатМод\Эйлера\prog4\obj\Debug\prog4.csprojAssemblyReference.cache
+G:\Study\МатМод\Эйлера\prog4\obj\Debug\prog4.csproj.CoreCompileInputs.cache
+G:\Study\МатМод\Эйлера\prog4\obj\Debug\prog4.exe
+G:\Study\МатМод\Эйлера\prog4\obj\Debug\prog4.pdb
